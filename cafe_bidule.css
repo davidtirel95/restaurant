@@ -1,0 +1,307 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+
+body {
+    background-color: #FEFFC2;
+   text-align: center;
+   overflow-x: hidden;;
+}
+
+
+
+h1 {
+    text-align:center;
+}
+
+.btn {
+    background-color:#FEFFC2;
+    border-radius: 100%;
+    border-color: #feffc2 ;
+    height: fit-content;
+    width: fit-content;
+    margin-top: 30px;
+    
+    
+
+}
+
+.btn:hover{
+    color: tomato;
+}
+
+
+
+.btn-toolbar {
+    display: flex;
+    float: right;
+    background-color:#DCD2F0;
+    border-radius: 50%;
+    border-style: groove;
+    border-color: whitesmoke;
+    height: fit-content;
+    max-width: fit-content;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+
+
+#btn {
+    border-radius: 50px;
+}
+
+.container {
+    border: 2px solid blanchedalmond;
+    margin-top: 30px;
+    margin-bottom: auto;
+    display: flex;
+    color: #E9C564;
+    font-weight: bold;
+    text-align: center;
+  
+    
+}
+
+.container_2 {
+    padding: 40px;
+    margin-top: px;
+    margin-bottom: auto;
+    display: flex;
+    color: #E9C564;
+    font-weight: bold;
+    text-align: center;
+}
+
+.container_3 {
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 70px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-family:'Mister_Pixel_Regular.otf' ;
+    font-size : 20px;
+    font-weight: bold;
+    color:#E9C564;
+    display: flex;
+}
+
+#container_3{
+    margin-top: 50px;
+}
+
+.container_4 {
+    border: 5px solid blanchedalmond;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-family:'Mister_Pixel_Regular.otf' ;
+    font-size : 20px;
+    font-weight: bold;
+    color:#E9C564;
+    display:inline-table;
+}
+
+}
+.container-fluid {
+
+border: 2px solid blanchedalmond;
+display: inline-flex;
+width: fit-content;
+color: #E9C564;
+font-weight: bold;
+
+}
+
+.container-footer {
+    background-color: black;
+   
+}
+
+.container_footer_2{
+    background-color: gainsboro;
+}
+
+
+#fav_pics{
+    font-size: 30px;
+    font-weight: bold;
+    color: orangered;
+    font-family:'Mister_Pixel_Regular.otf';
+}
+
+#img_menu{
+   
+}
+
+#img {
+    width: 280px;
+    height: 280px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.img {
+    width: 280px;
+    height: 280px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+#landing_img {
+    width: 180px;
+    height: 180px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.landing_img {
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+h1 {
+    color: orangered;
+    font-family: 'Lineal.otf';
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#first_sentence {
+    color: #FEFFC2;
+    transition: opacity 0.8s ease;
+    
+}
+ 
+#first_sentence:hover{
+    color:hotpink;
+    opacity: 0.01;
+  transition: all 8s ease ;
+  
+
+}
+
+#img_gallery{
+   
+    max-width: 500px;
+    max-height: 720px;
+    justify-content: center;
+
+}
+
+p {
+    margin-left: 10px;
+    text-align: center;
+    font-family:'Mister_Pixel_Regular.otf' ;
+    font-size : 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: hotpink;
+
+}
+
+form{
+    margin-top: 30px;
+}
+.btn-dark{
+    margin-top: 10px;
+}
+
+.container_table{
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+}
+
+#span {
+    color: green;
+}
+
+.landing_font {
+    font-family: 'Lineal.otf';
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 10px;
+    
+}
+
+@font-face {
+    font-family: 'Lineal.otf';
+    src: url(fonts/Lineal.otf); 
+    font-style: bold;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'Mister_Pixel_Regular.otf';
+    src: url(fonts/Mister_Pixel_Regular.otf); 
+    font-style: bold;
+    font-weight: 100;
+}
+
+
+.img-fluid {
+    width: 280px;
+    height: 320px;
+    align-self: center;
+}
+
+#video_info {
+    display: flex;
+    
+}
+.display-4 {
+    margin-bottom: 30px;
+
+}
+
+.list-group-item {
+    background-color: #FEFFC2;
+    border:  #FEFFC2;
+} 
+
+img {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 70px;
+}
+
+.col-md {
+    position: relative;
+}
+
+#navbar {
+    padding-left: 10px;
+}
+
+a {
+    font-family: 'Lineal.otf';
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+iframe{
+    margin-bottom: 20px;
+}
