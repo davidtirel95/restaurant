@@ -7,17 +7,17 @@ CSS
 
 
 
-#Process
+# Process
 
 
-##Day 1 and 2
+## Day 1 and 2
 
-###**Research and Visuals**
+### **Research and Visuals**
 
 Looking for what's needed when tasked to build a restaurant website.
 Watch and read a lot of tutorials and interviews of developpers focusing on restaurant websites. 
 
-###**ASK RELEVANT QUESTIONS**
+### **ASK RELEVANT QUESTIONS**
 
 Who's the targetted public ? 
 What's the most important thing to see when opening the website? 
