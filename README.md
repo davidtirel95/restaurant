@@ -1,4 +1,4 @@
-[title] # café bidule(https://davidtirel95.github.io/restaurant/)
+[café bidule](https://davidtirel95.github.io/restaurant/)
 
 used languages :
 UTF 8
