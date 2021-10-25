@@ -53,4 +53,5 @@ Content font color has to change as i focused on other features.
 
 
 Thanks for reading !
-https://giphy.com/gifs/hyperrpg-halloween-hyper-drive-hyperween-TLUNM7YapZDmjPzVio
+
+https://media.giphy.com/media/jptmkZ2s2EOUbczic7/giphy.gif
