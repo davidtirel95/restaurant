@@ -7,7 +7,7 @@ CSS
 
 # Process 
 
-## Day 1 and 2
+## DAY 1 & 2
 
 ### **Research and Visuals**
 
