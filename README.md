@@ -51,6 +51,7 @@ Image sizes needs so be re done.
 Content font color has to change as i focused on other features.
 
 What's *NEXT* ?
+
 Going to upgrade this website during the whole BECODE training, to practice and add new features and ideas.
 
 Thanks for reading !
