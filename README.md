@@ -24,7 +24,7 @@ What's the most important thing to see when opening the website?
 Are the featured pages and content relevant ? 
 Where to next ? What's the future of your company ? Adding/deleting stuff ? An App ? 
 
-###*FIGMA* [title](https://www.figma.com/file/BzCLg5w4gBsFklkrzYVSpc/cafe_bidule?node-id=0%3A1)
+### *FIGMA* [title](https://www.figma.com/file/BzCLg5w4gBsFklkrzYVSpc/cafe_bidule?node-id=0%3A1)
 
 
 >Creating the first version, tried to stick to the coffee pot colors, tried different colors, found the one I liked the most.
@@ -33,9 +33,9 @@ Found content such as images.
 Wrote content. Decided to go on the project i had few years ago with friends and family we built in France a coffee shop/food corner under the name of Citrus Coffee. The concept being mine, here i pushed it to its limits. Unfortunatelly we didn't had the ressources needed to fully make the idea irl. But theses beliefs are still the ones i stick to in my personnal life and i tend to 
 
 
-##DAY 3 & 4 
+## DAY 3 & 4 
 
-###**DEVELOPPMENT & SOLVING PROBLEMS**
+### **DEVELOPPMENT & SOLVING PROBLEMS**
 
 Wrote every HTML pages except pagination cause forgotten, added later tho. 
 Including bootstrap to the HTML as learning it. Even though the website hasn't the best responsive, i built it mobile first.
@@ -43,7 +43,7 @@ Add some issues with containers and columns.
 Issues to push it on Git and run it as a website, had to rename a page ton index.html, change every img and pages filepaths. 
 
 
-###**THOUGHTS ON THE OUTPUT**
+### **THOUGHTS ON THE OUTPUT**
 
 What could be re worked ? 
 
