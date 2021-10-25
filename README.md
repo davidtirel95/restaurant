@@ -1,14 +1,12 @@
-# restaurant
+[title](https://davidtirel95.github.io/restaurant/)
+
+used languages :
 UTF 8
 HTML
 BOOTSTRAP
 CSS
 
-
-
-
-# Process
-
+# Process 
 
 ## Day 1 and 2
 
