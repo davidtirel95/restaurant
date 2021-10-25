@@ -53,4 +53,4 @@ Content font color has to change as i focused on other features.
 
 
 Thanks for reading !
-<iframe src="https://giphy.com/embed/TLUNM7YapZDmjPzVio" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hyperrpg-halloween-hyper-drive-hyperween-TLUNM7YapZDmjPzVio">via GIPHY</a></p>
+https://giphy.com/gifs/hyperrpg-halloween-hyper-drive-hyperween-TLUNM7YapZDmjPzVio
