@@ -19,7 +19,7 @@ Watch and read a lot of tutorials and interviews of developpers focusing on rest
 >Who's the targetted public ? 
 What's the most important thing to see when opening the website? 
 Are the featured pages and content relevant ? 
-Where to next ? What's the future of your company ? Adding/deleting stuff ? An App ? 
+Where to next ? What's the future of your company ? Adding/deleting stuff ? An App? 
 
 ### [*FIGMA*](https://www.figma.com/file/BzCLg5w4gBsFklkrzYVSpc/cafe_bidule?node-id=0%3A1)
 
