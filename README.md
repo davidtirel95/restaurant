@@ -54,4 +54,4 @@ Content font color has to change as i focused on other features.
 
 Thanks for reading !
 
-https://media.giphy.com/media/jptmkZ2s2EOUbczic7/giphy.gif
+![Halloween Gif](https://media.giphy.com/media/jptmkZ2s2EOUbczic7/giphy.gif)
