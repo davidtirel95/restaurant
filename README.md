@@ -1,4 +1,4 @@
-[café bidule](https://davidtirel95.github.io/restaurant/)
+# [café bidule](https://davidtirel95.github.io/restaurant/)
 
 used languages :
 UTF 8
@@ -22,7 +22,7 @@ What's the most important thing to see when opening the website?
 Are the featured pages and content relevant ? 
 Where to next ? What's the future of your company ? Adding/deleting stuff ? An App ? 
 
-### *FIGMA* [title](https://www.figma.com/file/BzCLg5w4gBsFklkrzYVSpc/cafe_bidule?node-id=0%3A1)
+### [*FIGMA*](https://www.figma.com/file/BzCLg5w4gBsFklkrzYVSpc/cafe_bidule?node-id=0%3A1)
 
 
 >Creating the first version, tried to stick to the coffee pot colors, tried different colors, found the one I liked the most.
@@ -53,4 +53,4 @@ Content font color has to change as i focused on other features.
 
 
 Thanks for reading !
-[title](https://giphy.com/gifs/hyperrpg-halloween-hyper-drive-hyperween-TLUNM7YapZDmjPzVio)
+(https://giphy.com/gifs/hyperrpg-halloween-hyper-drive-hyperween-TLUNM7YapZDmjPzVio)
