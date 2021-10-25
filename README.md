@@ -17,7 +17,7 @@ Watch and read a lot of tutorials and interviews of developpers focusing on rest
 
 ### **ASK RELEVANT QUESTIONS**
 
-Who's the targetted public ? 
+>Who's the targetted public ? 
 What's the most important thing to see when opening the website? 
 Are the featured pages and content relevant ? 
 Where to next ? What's the future of your company ? Adding/deleting stuff ? An App ? 
@@ -35,7 +35,7 @@ Wrote content. Decided to go on the project i had few years ago with friends and
 
 ### **DEVELOPPMENT & SOLVING PROBLEMS**
 
-Wrote every HTML pages except pagination cause forgotten, added later tho. 
+>Wrote every HTML pages except pagination cause forgotten, added later tho. 
 Including bootstrap to the HTML as learning it. Even though the website hasn't the best responsive, i built it mobile first.
 Add some issues with containers and columns. 
 Issues to push it on Git and run it as a website, had to rename a page ton index.html, change every img and pages filepaths. 
